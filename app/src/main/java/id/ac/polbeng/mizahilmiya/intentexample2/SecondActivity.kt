@@ -1,7 +1,6 @@
 package id.ac.polbeng.mizahilmiya.intentexample2
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import id.ac.polbeng.mizahilmiya.intentexample2.databinding.ActivitySecondBinding
 
